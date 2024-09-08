@@ -9,7 +9,7 @@ void main() {
                 Color.fromARGB(255, 44, 6, 108),
                 Color.fromARGB(255, 92, 27, 203),
                Color.fromARGB(255, 117, 74, 190),
-              ], 'Testing For Kolikoman.'),
+              ]),
       ),
     ),
   );
